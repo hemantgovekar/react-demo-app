@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-const Header = (props) => 
-{
+const Header = (props) => {
+    console.log('in header');
     return (
         <div>
             {props.name}

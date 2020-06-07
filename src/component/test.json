@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Elizabeth",
+                "last": "Hall"
+            },
+            "location": {
+                "street": {
+                    "number": 5379,
+                    "name": "Wiri Station Road"
+                },
+                "city": "Christchurch",
+                "state": "Otago",
+                "country": "New Zealand",
+                "postcode": 89428,
+                "coordinates": {
+                    "latitude": "61.4509",
+                    "longitude": "70.8768"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico City"
+                }
+            },
+            "email": "elizabeth.hall@example.com",
+            "login": {
+                "uuid": "33738f19-ef29-44ac-8315-534b98da3f93",
+                "username": "greenfrog303",
+                "password": "allsop",
+                "salt": "8jLrQVFl",
+                "md5": "92bfb75a8ce86c49860447f9a066e113",
+                "sha1": "8e4274e67c00484933c85be396ae47fbc994e3fe",
+                "sha256": "3ed968c90efb9e3c7c3243d6d24d417a700588a63956a3a32a872ad1b41dcc78"
+            },
+            "dob": {
+                "date": "1958-12-16T14:44:14.879Z",
+                "age": 62
+            },
+            "registered": {
+                "date": "2015-05-02T14:07:54.413Z",
+                "age": 5
+            },
+            "phone": "(586)-296-2572",
+            "cell": "(396)-503-9587",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/57.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+            },
+            "nat": "NZ"
+        }
+    ],
+    "info": {
+        "seed": "ff7295e223695f03",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
