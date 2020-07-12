@@ -1,3 +1,6 @@
 # react-demo-app
-Demo app for React Redux 
+
+
+> Demo app for React Redux 
+
 			--- Hemant Govekar
